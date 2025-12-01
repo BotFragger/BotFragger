@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+Hello, my name is Mohammad Roni Kusuma
 I am a Frontend Developer with 1 year of experience and a fresh graduate who is growing into a Fullstack Developer. I love learning new things, especially modern web technologies, and continually improve my skills through personal projects and team collaborations. My focus is on building fast, responsive, and user-friendly interfaces while expanding my backend knowledge to become a more complete developer.
 
 ## 🌐 Socials:
